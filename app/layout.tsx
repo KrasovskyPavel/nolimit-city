@@ -36,6 +36,9 @@ export const metadata: Metadata = {
     description:
       "Looking for the best Nolimit City online slots? Discover high RTP games, new Nolimit City releases, and exclusive casino bonuses for UK players.",
   },
+  verification: {
+    google: "RlUsY_5_pXpxNbzL0plo8-Vfru5Q3dasedM0acllji8",
+  },
   robots: {
     index: true,
     follow: true,

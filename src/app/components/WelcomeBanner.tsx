@@ -1,14 +1,15 @@
-import { Gift, TrendingUp, Zap } from 'lucide-react';
+import { Gift, TrendingUp, Zap } from "lucide-react";
 
 export function WelcomeBanner() {
   return (
-    <section className="bg-black py-8 sm:py-10 md:py-12 border-t border-gray-800" style={{ fontFamily: 'Roboto, sans-serif' }}>
+    <section
+      className="bg-black py-8 sm:py-10 md:py-12 border-t border-gray-800"
+      style={{ fontFamily: "Roboto, sans-serif" }}
+    >
       <div className="max-w-[900px] mx-auto px-4 sm:px-6">
         {/* Main Banner Card */}
         <div className="bg-[#F4E800] rounded-xl sm:rounded-2xl p-6 sm:p-8 md:p-10">
           <div className="text-center mb-4">
-          
-
             {/* Title */}
             <div className="text-3xl sm:text-4xl md:text-5xl font-black mb-2 sm:mb-3 text-black leading-tight">
               Welcome Bonus
@@ -27,7 +28,9 @@ export function WelcomeBanner() {
               </div>
               <div className="text-left">
                 <div className="text-white text-base sm:text-lg font-bold">150% Match Bonus</div>
-                <p className="text-gray-400 text-xs sm:text-sm">Up to $3000 on your first deposit</p>
+                <p className="text-gray-400 text-xs sm:text-sm">
+                  Up to $3000 on your first deposit
+                </p>
               </div>
             </div>
 
@@ -38,13 +41,15 @@ export function WelcomeBanner() {
               </div>
               <div className="text-left">
                 <div className="text-white text-base sm:text-lg font-bold">50 Free Spins</div>
-                <p className="text-gray-400 text-xs sm:text-sm">On Mental, Fire in the Hole & other hits</p>
+                <p className="text-gray-400 text-xs sm:text-sm">
+                  On Mental, Fire in the Hole & other hits
+                </p>
               </div>
             </div>
           </div>
 
           {/* CTA Button */}
-          <a 
+          <a
             href="https://bestslotgames.top/KbrRVmxp"
             rel="nofollow"
             target="_blank"
